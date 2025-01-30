@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "my-app",
+    "name": "notification-receiver",
     "slug": "notification-receiver",
     "version": "1.0.0",
     "orientation": "portrait",
